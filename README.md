@@ -14,4 +14,4 @@ Initially, an XGBoost model was built. Then using the caret and h2o packages, a 
 Conclusions:
 There were many incompatibilities with the caret and h2o packages in R 3.5.0. This code can give youba very basic idea of modeling and ensembling in R and image processing in Python. If you want to win a competition or rank well, I suggest you look into Python as most competition winners use it and I was told by them, that Pyhton packages are much more advanced in function than their R counterparts.
 
-You can look at the properly commented code here.
+
